@@ -1,5 +1,7 @@
 # 🏙️ Civix-Pulse: AI-Driven Grievance Triage & Dispatch
 
+> **Current Status:** Current
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
