@@ -1,6 +1,7 @@
 # 🏙️ Civix-Pulse: AI-Driven Grievance Triage & Dispatch
 
-> **Current Status:** Current
+> **Current Status:** Current  
+> **Last Refresh:** 2026-09-24
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
